@@ -2,7 +2,7 @@
   "name": "web",
   "version": "1.0.0",
   "description": "web del curso lynda",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
